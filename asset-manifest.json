@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RestaurantBarApp/static/css/main.03218024.css",
+    "main.js": "/RestaurantBarApp/static/js/main.a018dffb.js",
+    "static/media/loading.gif": "/RestaurantBarApp/static/media/loading.5174e62cfd9177e4badf.gif",
+    "static/media/Cocktail-icon.png": "/RestaurantBarApp/static/media/Cocktail-icon.c2188d46685af4fe44ac.png",
+    "index.html": "/RestaurantBarApp/index.html",
+    "main.03218024.css.map": "/RestaurantBarApp/static/css/main.03218024.css.map",
+    "main.a018dffb.js.map": "/RestaurantBarApp/static/js/main.a018dffb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03218024.css",
+    "static/js/main.a018dffb.js"
+  ]
+}
